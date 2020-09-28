@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'uzura';
+  src: url('font/uzura.eot');
+  src: url('font/uzura.eot?#iefix') format('embedded-opentype'),
+       url('font/uzura.svg#HanaB') format('svg'),
+       url('font/uzura.ttf') format('truetype'),
+       url('font/uzura.woff') format('woff'),
+       url('font/uzura.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
